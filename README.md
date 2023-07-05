@@ -23,15 +23,14 @@ By date & time:
 
 ![image](https://github.com/MarcoSantibanez/Retrieve-Employee-Device-Data-Using-SQL/assets/138132151/7883b0d0-d747-4291-a8bb-368681047e1e)
 
-By country & user:
+By date country and user:
 
 ![image](https://github.com/MarcoSantibanez/Retrieve-Employee-Device-Data-Using-SQL/assets/138132151/e23148a3-862b-47c8-a371-beca434d9fa7)
-![image](https://github.com/MarcoSantibanez/Retrieve-Employee-Device-Data-Using-SQL/assets/138132151/8db9ffff-b336-48f7-bc1a-06a295ddc9d9)
+
 
 
 Finally, I used the ORDER BY keyword to sort the data returned by the SQL queries:
-
-
+![image](https://github.com/MarcoSantibanez/Retrieve-Employee-Device-Data-Using-SQL/assets/138132151/8db9ffff-b336-48f7-bc1a-06a295ddc9d9)
 ![image](https://github.com/MarcoSantibanez/Retrieve-Employee-Device-Data-Using-SQL/assets/138132151/2e381a1f-a1fd-4f3b-bb28-7517ba4e8631)
 
 
